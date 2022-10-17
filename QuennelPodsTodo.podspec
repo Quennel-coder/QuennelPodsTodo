@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QuennelPodsTodo'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of QuennelPodsTodo.'
+  s.summary          = 'This is a test for Pods.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Xinyu Ji/QuennelPodsTodo'
+  s.homepage         = 'https://github.com/Quennel-coder/QuennelPodsTodo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Xinyu Ji' => 'xinyu.ji@thoughtworks.com' }
-  s.source           = { :git => 'https://github.com/Xinyu Ji/QuennelPodsTodo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Quennel-coder/QuennelPodsTodo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.3'
 
   s.source_files = 'QuennelPodsTodo/Classes/**/*'
   

@@ -1,0 +1,16 @@
+PODS:
+  - QuennelPodsTodo (0.1.0)
+
+DEPENDENCIES:
+  - QuennelPodsTodo (from `../`)
+
+EXTERNAL SOURCES:
+  QuennelPodsTodo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QuennelPodsTodo: dc67fbed807f432366204795bcc9eb3197f86600
+
+PODFILE CHECKSUM: 791810ad508aa34abf282ce2be9642be1e33283b
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'QuennelPodsTodo_Example' do
+  pod 'QuennelPodsTodo', :path => '../'
+
+  target 'QuennelPodsTodo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

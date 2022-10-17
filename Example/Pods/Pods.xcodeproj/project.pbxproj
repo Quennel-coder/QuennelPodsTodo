@@ -123,6 +123,14 @@
 			path = "Example/Pods/Target Support Files/QuennelPodsTodo";
 			sourceTree = "<group>";
 		};
+		534D57AA28FD2D5B00B9AF1D /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				534D57A828FD260B00B9AF1D /* Todo.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		5458BB26D1AA1324CE0511BA81A68445 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -143,7 +151,7 @@
 		593340A11D0AC533B771ADEFB1563AD1 /* QuennelPodsTodo */ = {
 			isa = PBXGroup;
 			children = (
-				534D57A828FD260B00B9AF1D /* Todo.swift */,
+				534D57AA28FD2D5B00B9AF1D /* Sources */,
 				73933936B4F060A648B8A607A687093B /* Pod */,
 				419651520AAF9B38A29C35A190237A49 /* Support Files */,
 			);

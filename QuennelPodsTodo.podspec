@@ -30,8 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.3'
 
-  s.source_files = 'QuennelPodsTodo/**/*'
-  
+  s.source_files = 'Sources/**/*'
+  s.swift_version = '4.0'
   # s.resource_bundles = {
   #   'QuennelPodsTodo' => ['QuennelPodsTodo/Assets/*.png']
   # }
